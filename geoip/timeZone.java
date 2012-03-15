@@ -1,4 +1,4 @@
-package gioip;
+package geoip;
 // generated automatically from admin/generate_timeZone.pl
 public class timeZone {
   static public String timeZoneByCountryAndRegion(String country,String region) {

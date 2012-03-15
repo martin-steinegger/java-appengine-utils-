@@ -1,3 +1,4 @@
+package geoip;
 import java.io.ByteArrayInputStream;
 import java.io.EOFException;
 import java.io.IOException;

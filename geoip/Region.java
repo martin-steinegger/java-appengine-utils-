@@ -1,4 +1,4 @@
-package gioip;
+package geoip;
 
 public class Region{
   public String countryCode;
